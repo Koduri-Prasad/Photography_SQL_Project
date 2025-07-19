@@ -1,11 +1,11 @@
 
-# 📸 Photography Studio Management System - SQL Project
+# Photography Studio Management System - SQL Project
 
 This project is a **SQL-based database system** designed to manage photography studio operations such as customer bookings, shoot types, photographers, and assignments. It's perfect for hands-on learning of **SQL joins** and practicing complex queries.
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - 💾 **MySQL**  
 - 📄 Raw SQL Queries  
@@ -13,7 +13,7 @@ This project is a **SQL-based database system** designed to manage photography s
 
 ---
 
-## 📊 Database Design Overview
+## Database Design Overview
 
 The system consists of the following tables:
 - **Customers** – Stores client info
@@ -24,7 +24,7 @@ The system consists of the following tables:
 
 ---
 
-## 📌 Key SQL Features Practiced
+##  Key SQL Features Practiced
 
 - ✅ INNER JOIN queries to combine bookings with customer and shoot details  
 - ✅ LEFT JOINs to show unmatched records (e.g., unassigned photographers)  
@@ -36,7 +36,7 @@ The system consists of the following tables:
 
 ---
 
-## 💼 Resume Usage
+## Resume Usage
 
 You can include this project in your resume under **SQL Projects**:
 ```
@@ -47,7 +47,7 @@ You can include this project in your resume under **SQL Projects**:
 
 ---
 
-## 📂 File Structure
+##  File Structure
 
 ```
 Photography_SQL_Project/
@@ -67,7 +67,7 @@ You can run these SQL queries using:
 
 ---
 
-## 🙌 Author
+## Author
 
-Made with 💖 by [KoduriPrasad]  
-GitHub: [github.com/KoduriPrasad](https://github.com/KoduriPrasad)
+Made by [KoduriPrasad]  
+GitHub: [github.com/KoduriPrasad](https://github.com/Koduri-Prasad/Photography_SQL_Project))
