@@ -7,9 +7,9 @@ This project is a **SQL-based database system** designed to manage photography s
 
 ##  Technologies Used
 
-- 💾 **MySQL**  
-- 📄 Raw SQL Queries  
-- 🔗 Joins: INNER, LEFT, RIGHT, FULL (UNION), SELF JOIN
+-  **MySQL**  
+-  Raw SQL Queries  
+-  Joins: INNER, LEFT, RIGHT, FULL (UNION), SELF JOIN
 
 ---
 
